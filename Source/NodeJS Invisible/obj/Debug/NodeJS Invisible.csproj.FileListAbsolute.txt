@@ -1,0 +1,9 @@
+C:\Users\Chekan\source\repos\NodeJS Invisible\NodeJS Invisible\bin\Debug\NodeJS Invisible.exe
+C:\Users\Chekan\source\repos\NodeJS Invisible\NodeJS Invisible\bin\Debug\NodeJS Invisible.pdb
+C:\Users\Chekan\source\repos\NodeJS Invisible\NodeJS Invisible\obj\Debug\NodeJS Invisible.csproj.AssemblyReference.cache
+C:\Users\Chekan\source\repos\NodeJS Invisible\NodeJS Invisible\obj\Debug\NodeJS_Invisible.Properties.Resources.resources
+C:\Users\Chekan\source\repos\NodeJS Invisible\NodeJS Invisible\obj\Debug\NodeJS Invisible.csproj.GenerateResource.cache
+C:\Users\Chekan\source\repos\NodeJS Invisible\NodeJS Invisible\obj\Debug\NodeJS Invisible.csproj.CoreCompileInputs.cache
+C:\Users\Chekan\source\repos\NodeJS Invisible\NodeJS Invisible\obj\Debug\NodeJS Invisible.exe
+C:\Users\Chekan\source\repos\NodeJS Invisible\NodeJS Invisible\obj\Debug\NodeJS Invisible.pdb
+C:\Users\Chekan\source\repos\NodeJS Invisible\NodeJS Invisible\obj\Debug\NodeJS_Invisible.Core.DependenciesInstaller_Form.resources
